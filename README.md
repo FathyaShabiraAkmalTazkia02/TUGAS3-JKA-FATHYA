@@ -2,9 +2,9 @@
 
 ## Identitas 
 
-- Nama: [Nama Lengkap Anda]
-- NIM: [NIM Anda]
-- Kelas: [Kelas Anda]
+- Nama: Fathya Shabira A.T
+- NIM: 105841111923
+- Kelas: 5 JK A
 
 ## Deskripsi Proyek
 
